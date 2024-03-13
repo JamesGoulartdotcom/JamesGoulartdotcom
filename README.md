@@ -1,6 +1,6 @@
 ### James aqui 👋
 
-Estudante de engenharia da computação atualmente focado em Python, engenharia e ciência da dados. 
+Estudante de engenharia da computação e apaixonado por tecnologia. Atualmente focado em Python, engenharia e ciência da dados. 
 
 Principais tecnologias: 
 
