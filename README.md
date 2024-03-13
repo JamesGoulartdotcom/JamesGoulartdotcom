@@ -4,5 +4,5 @@ Estudante de engenharia da computação atualmente focado em Python, engenharia 
 
 Principais tecnologias: 
 
-[![My Skills](https://skillicons.dev/icons?i=py,anaconda,myslq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,anaconda,mysql)](https://skillicons.dev)
 
