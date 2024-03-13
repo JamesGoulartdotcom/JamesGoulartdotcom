@@ -6,3 +6,6 @@ Principais tecnologias:
 
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,mysql)](https://skillicons.dev)
 
+Estudando:
+
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
